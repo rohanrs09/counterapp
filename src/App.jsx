@@ -17,7 +17,7 @@ function App() {
   };
 
   const goToGitHub = () => {
-    window.location.href = "https://github.com/rohanrs09/LP-II.git";
+    window.location.href = "https://github.com/rohanrs09/lp1.git";
   };
 
   return (
